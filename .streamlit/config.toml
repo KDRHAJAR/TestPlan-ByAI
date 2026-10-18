@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#9C7B6B"
+backgroundColor = "#F4EAE4"
+secondaryBackgroundColor = "#FBF6F3"
+textColor = "#3D2E27"
+borderColor = "#E3D2C8"
+dataframeBorderColor = "#E3D2C8"
+linkColor = "#86685A"
+showWidgetBorder = true
+baseRadius = "6px"
+buttonRadius = "full"
+font = "Jost:https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap"
+headingFont = "Cormorant Garamond:https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"
+headingFontWeights = 600
